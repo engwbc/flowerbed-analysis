@@ -1,0 +1,7 @@
+Flower bed,Section,Read1,Read2,Read3,Mean pH,Std,95% CI
+Right,Top,7.37,7.38,7.63,7.46,0.15,0.12
+Right,Middle,7.51,7.31,7.63,7.48,0.16,0.13
+Right,Bottom,7.4,7.21,7.64,7.42,0.22,0.17
+Left,Top,7.6,7.36,7.51,7.49,0.12,0.10
+Left,Middle,7.21,7.6,7.75,7.52,0.28,0.22
+Left,Bottom,6.94,7.47,7.48,7.30,0.31,0.25
